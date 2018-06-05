@@ -5,7 +5,7 @@
 //   }
 //   return array;
 // }
-// 
+//
 // function johnLennonFacts(facts) {
 //   var array = [];
 //   while (n < 10) {
